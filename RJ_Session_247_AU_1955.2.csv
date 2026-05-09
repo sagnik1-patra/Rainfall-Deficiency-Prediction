@@ -1,0 +1,37 @@
+S. No.,Region,State/Districts,Actual(mm),Normal(mm),% Dep.
+Rajasthan,Rajasthan,Rajasthan,393.6,419,-6
+(i),East Rajasthan,East Rajasthan,635.3,615.8,3
+1,East Rajasthan,Ajmer,421,429.6,-2
+2,East Rajasthan,Alwar,518.1,555.3,-7
+3,East Rajasthan,Banswara,808.3,831.8,-3
+4,East Rajasthan,Baran,946.6,792.2,19
+5,East Rajasthan,Bharatpur,755.4,557.6,35
+6,East Rajasthan,Bhilwara,606.7,580.9,4
+7,East Rajasthan,Bundi,608.4,655.9,-7
+8,East Rajasthan,Chittorgarh,706.8,709.7,0
+9,East Rajasthan,Dausa,592.8,612.1,-3
+10,East Rajasthan,Dholpur,708.2,650,9
+11,East Rajasthan,Dungarpur,761.8,637.8,19
+12,East Rajasthan,Jaipur,508.6,524.6,-3
+13,East Rajasthan,Jhalawar,958.5,855.1,12
+14,East Rajasthan,Jhunjhunu,402.1,410,-2
+15,East Rajasthan,Karauli,591.8,637.4,-7
+16,East Rajasthan,Kota,719.4,746.3,-4
+17,East Rajasthan,Pratapgarh,1135,845.8,34
+18,East Rajasthan,Rajsamand,514.4,506,2
+19,East Rajasthan,Sawai Madhopur,1008.7,664,52
+20,East Rajasthan,Sikar,565.6,402.5,41
+21,East Rajasthan,Sirohi,409,868.6,-53
+22,East Rajasthan,Tonk,512.3,566,-9
+23,East Rajasthan,Udaipur,562.3,591.3,-5
+(ii),West Rajasthan,West Rajasthan,201.7,263.2,-23
+1,West Rajasthan,Barmer,123.2,243.4,-49
+2,West Rajasthan,Bikaner,259.1,228.7,13
+3,West Rajasthan,Churu,324.4,313.7,3
+4,West Rajasthan,Hanumangarh,138.1,252.5,-45
+5,West Rajasthan,Jaisalmer,110.5,158.4,-30
+6,West Rajasthan,Jalore,155.9,394.2,-60
+7,West Rajasthan,Jodhpur,232,274.5,-15
+8,West Rajasthan,Nagaur,287.1,348.5,-18
+9,West Rajasthan,Pali,316.9,446.7,-29
+10,West Rajasthan,Sri Ganganagar,172.4,201.4,-14

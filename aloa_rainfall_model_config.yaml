@@ -1,0 +1,22 @@
+accuracy: 1.0
+algorithm: Ant Lion Optimization Algorithm
+all_features:
+- Region_Encoded
+- District_Encoded
+- Actual(mm)
+- Normal(mm)
+- '% Dep.'
+- Rainfall_Health_Score
+classes:
+- Deficient
+- Excess
+- Normal
+files:
+  h5: C:\Users\NXTWAVE\Downloads\Rainfall Deficiency Prediction\aloa_rainfall_deficiency_model.h5
+  pkl: C:\Users\NXTWAVE\Downloads\Rainfall Deficiency Prediction\aloa_rainfall_deficiency_model.pkl
+  prediction_csv: C:\Users\NXTWAVE\Downloads\Rainfall Deficiency Prediction\aloa_rainfall_prediction.csv
+  result_csv: C:\Users\NXTWAVE\Downloads\Rainfall Deficiency Prediction\aloa_rainfall_result.csv
+project_name: Rainfall Deficiency Prediction using ALOA
+selected_features:
+- Rainfall_Health_Score
+total_records: 33

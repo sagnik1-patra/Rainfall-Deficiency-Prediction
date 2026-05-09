@@ -1,0 +1,23 @@
+{
+    "project_name": "Rainfall Deficiency Prediction using CSA",
+    "algorithm": "Crow Search Algorithm",
+    "accuracy": 1.0,
+    "selected_features": [
+        "% Dep.",
+        "Rainfall_Health_Score"
+    ],
+    "all_features": [
+        "Region_Encoded",
+        "District_Encoded",
+        "Actual(mm)",
+        "Normal(mm)",
+        "% Dep.",
+        "Rainfall_Health_Score"
+    ],
+    "classes": [
+        "Deficient",
+        "Excess",
+        "Normal"
+    ],
+    "total_records": 33
+}
