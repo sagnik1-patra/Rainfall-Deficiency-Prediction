@@ -1,0 +1,31 @@
+{
+    "project_name": "Rainfall Deficiency Prediction using Hybrid AIS-BA",
+    "algorithm": "Hybrid Artificial Immune System + Bat Algorithm",
+    "accuracy": 1.0,
+    "best_fitness": 1.0,
+    "selected_features": [
+        "Region_Encoded",
+        "Actual(mm)",
+        "Rainfall_Health_Score"
+    ],
+    "all_features": [
+        "Region_Encoded",
+        "District_Encoded",
+        "Actual(mm)",
+        "Normal(mm)",
+        "% Dep.",
+        "Rainfall_Health_Score"
+    ],
+    "classes": [
+        "Deficient",
+        "Excess",
+        "Normal"
+    ],
+    "total_records": 33,
+    "files": {
+        "pkl": "C:\\Users\\NXTWAVE\\Downloads\\Rainfall Deficiency Prediction\\bis_rainfall_deficiency_model.pkl",
+        "h5": "C:\\Users\\NXTWAVE\\Downloads\\Rainfall Deficiency Prediction\\bis_rainfall_deficiency_model.h5",
+        "result_csv": "C:\\Users\\NXTWAVE\\Downloads\\Rainfall Deficiency Prediction\\bis_rainfall_result.csv",
+        "prediction_csv": "C:\\Users\\NXTWAVE\\Downloads\\Rainfall Deficiency Prediction\\bis_rainfall_prediction.csv"
+    }
+}
